@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ashiya
-- 🎓 I’m an Automotive Software Engineering student
+- 🎓 I’m an Automotive Software Engineering student in Germany
 - 📝 I’m currently writing articles on software engineering
 - 🔍 I’m also looking for thesis related to Autonomous driving and driver assistance systems
 
